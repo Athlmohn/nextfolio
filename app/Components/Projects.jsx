@@ -2,7 +2,7 @@ import React from 'react'
 import EdutechImg from '../../public/Projects/Educational Website.png'
 import ChatImg from '../../public/Projects/ChatApp.png'
 import WeatherImg from '../../public/Projects/WeatherApp.png'
-import FoodImg from '../../public/Projects/Foodvio.png'
+import FoodImg from '../../public/Projects/FoodVio.png'
 import ProjectList from './ProjectList'
 function Projects() {
   return (
