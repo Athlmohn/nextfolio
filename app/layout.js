@@ -16,8 +16,8 @@ export default function RootLayout({ children }) {
       <body className={inter.className}>
         <Navbar />
         {children}
-        <script src="//code.tidio.co/dugy2h79tzntp8ysen8litbuke2empc4.js" async></script>
         <Footer/>
+        <script src="//code.tidio.co/dugy2h79tzntp8ysen8litbuke2empc4.js" async></script>
       </body>
     </html>
   );
