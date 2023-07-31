@@ -6,7 +6,7 @@ function Footer() {
   const Year = new Date().getFullYear();
 
   return (
-    <div className="w-full h-[30vh] p-12 bg-black">
+    <div className="w-full h-[30vh] p-12  bg-black">
       <div>
         <div className="flex items-center justify-between pb-12">
           <div>
@@ -14,7 +14,7 @@ function Footer() {
           </div>
           <div>
             <div className="flex items-center gap-5 mt-3">
-              <div className="rounded p-3 bg-white cursor-pointer hover:scale-105 hover:bg-[#818CF8] hover:text-white text-sm md:text-lg">
+              <div className="rounded p-1 bg-white cursor-pointer hover:scale-105 hover:bg-[#818CF8] hover:text-white text-sm md:p-2 md:text-lg">
                 <Link
                   href="https://www.linkedin.com/in/Athlmohn"
                   target="_blank"
@@ -22,12 +22,12 @@ function Footer() {
                   <FaLinkedinIn />
                 </Link>
               </div>
-              <div className="rounded p-3 bg-white cursor-pointer hover:scale-105 hover:bg-[#818CF8] hover:text-white text-sm md:text-lg">
+              <div className="rounded p-1 bg-white cursor-pointer hover:scale-105 hover:bg-[#818CF8] hover:text-white text-sm md:p-2 md:text-lg">
                 <Link href="https://github.com/Athlmohn" target="_blank">
                   <FaGithub />
                 </Link>
               </div>
-              <div className="rounded p-3 bg-white cursor-pointer hover:scale-105 hover:bg-[#818CF8] hover:text-white text-sm md:text-lg">
+              <div className="rounded p-1 bg-white cursor-pointer hover:scale-105 hover:bg-[#818CF8] hover:text-white text-sm md:p-2 md:text-lg">
                 <Link href="https://twitter.com/Athlmohn" target="_blank">
                   <FaTwitter />
                 </Link>
