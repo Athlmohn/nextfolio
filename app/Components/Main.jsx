@@ -29,7 +29,7 @@ function Main() {
             designs.
           </p>
         </div>
-      <div className="absolute flex justify-center bottom-8">
+      <div className="absolute flex justify-center bottom-16 md:bottom-4">
           <div className="scrolldown" style={{color:"skyblue"}}>
             <div className="chevrons">
               <div className="chevrondown"></div>

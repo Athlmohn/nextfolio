@@ -18,8 +18,7 @@ html{
 
   .span_rotate{
     display: block;
-    animation: animatewords 5s infinite ease;
-    animation-delay: 3s;
+    animation: animatewords 7s infinite ease;
   }
 
   @keyframes animatewords {

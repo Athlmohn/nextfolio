@@ -61,7 +61,7 @@ function Navbar() {
     >
       <div className="flex justify-between items-center w-full h-full px-2 2xl:px-16">
         <div className="flex items-center gap-3">
-          <div className="bg-gradient-to-r from-indigo-900 to-purple-600 rounded-full w-[50px] h-[50px] p-[2px] animate__animated animate__bounceInDown">
+          <div className="bg-gradient-to-r from-indigo-900 to-purple-600 rounded-full w-[40px] h-[40px] p-[2px] animate__animated animate__bounceInDown md:w-[50px] md:h-[50px] ">
             <Image src="/Logo.svg" alt="Logo" width="60" height="60" />
           </div>
           <div>
