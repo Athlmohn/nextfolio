@@ -95,7 +95,7 @@ function Navbar() {
             <Link href="/#contact">
               <div className="flex items-center transform gap-1 text-sm font-bold uppercase hover:text-[#A020F0] hover:translate-y-[-2px]">
                 <LiaTelegramPlane size={20} />
-                <li className="mt-1">Contacts</li>
+                <li className="mt-1">Contact</li>
               </div>
             </Link>
             <Link href="https://github.com/Athlmohn" target="_blank">
